@@ -3,6 +3,7 @@
 
 Bienvenido a mi portafolio de análisis de datos. Soy biólogo (en proceso de grado) con base técnica en desarrollo de software. Aquí muestro proyectos prácticos en R, Power BI y Excel, enfocados en limpieza de datos, EDA, visualización y comunicación de insights.
 
+---
 ## Tools & Skills
 - R (tidyverse, ggplot2, readr, janitor, lubridate)
 - Power BI (Power Query, DAX básico)
